@@ -1,0 +1,30 @@
+{
+  "type": "minecraft:smelting",
+  "category": "food",
+  "experience": 0,
+  "cookingtime": 100,
+  "ingredient": [
+    {
+      "item": "crispy:chocolate_chip_cookie"
+    },
+    {
+      "item": "crispy:plain_cookie"
+    },
+    {
+      "item": "crispy:chocolate_cookie"
+    },
+    {
+      "item": "crispy:white_chocolate_cookie"
+    },
+    {
+      "item": "crispy:white_chocolate_chip_cookie"
+    },
+    {
+      "item": "crispy:raisin_cookie"
+    },
+    {
+      "item": "crispy:sprinkled_cookie"
+    }
+  ],
+  "result": "crispy:burnt_cookie"
+}

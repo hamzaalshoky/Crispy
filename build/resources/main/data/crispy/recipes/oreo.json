@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "#": {
+      "item": "minecraft:cocoa_beans"
+    },
+    "B": {
+      "item": "minecraft:milk_bucket"
+    }
+  },
+  "pattern": [
+    "###",
+    " B ",
+    "###"
+  ],
+  "result": {
+    "item": "crispy:oreo"
+  },
+  "show_notification": true
+}

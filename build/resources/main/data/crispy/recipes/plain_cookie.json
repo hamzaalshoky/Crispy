@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:smelting",
+  "category": "food",
+  "cookingtime": 100,
+  "experience": 0.25,
+  "ingredient": {
+    "item": "crispy:cookie_dough"
+  },
+  "result": "crispy:plain_cookie"
+}

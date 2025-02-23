@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "crispy:cookie_dough"
+    },
+    {
+      "item": "crispy:raisins"
+    }
+  ],
+  "result": {
+    "item": "crispy:raw_raisin_cookie",
+    "count": 2
+  }
+}

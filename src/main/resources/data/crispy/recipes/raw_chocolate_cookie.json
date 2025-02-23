@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "I": {
+      "item": "minecraft:cocoa_beans"
+    },
+    "i": {
+      "item": "crispy:cookie_dough"
+    }
+  },
+  "pattern": [
+    " I ",
+    "IiI",
+    " I "
+  ],
+  "result": {
+    "item": "crispy:raw_chocolate_cookie",
+    "count": 4
+  },
+  "show_notification": true
+}

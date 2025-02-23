@@ -1,0 +1,26 @@
+{
+  "display": {
+    "icon": {
+      "item": "crispy:fortune_cookie"
+    },
+    "title": {
+      "translate": "advancements.husbandry.fortunate.title"
+    },
+    "description": {
+      "translate": "advancements.husbandry.fortunate.description"
+    }
+  },
+  "parent": "minecraft:husbandry/root",
+  "criteria": {
+    "cookie": {
+      "conditions": {
+        "item": {
+          "items": [
+            "crispy:fortune_cookie"
+          ]
+        }
+      },
+      "trigger": "minecraft:consume_item"
+    }
+  }
+}

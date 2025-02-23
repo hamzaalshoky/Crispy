@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Specification-Title: crispy
+Specification-Vendor: ItsHamza, YaBoiBruno
+Specification-Version: 1
+Implementation-Title: Cookies
+Implementation-Version: 1.0.0
+Implementation-Vendor: ItsHamza, YaBoiBruno
+Implementation-Timestamp: 2025-02-23T23:21:04+0300
+

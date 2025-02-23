@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:smelting",
+  "category": "food",
+  "cookingtime": 50,
+  "experience": 0.15,
+  "ingredient": {
+    "item": "crispy:grapes"
+  },
+  "result": "crispy:raisins",
+  "count": 6
+}

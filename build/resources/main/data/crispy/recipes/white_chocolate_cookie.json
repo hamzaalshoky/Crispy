@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:smelting",
+  "category": "food",
+  "cookingtime": 100,
+  "experience": 0.25,
+  "ingredient": {
+    "item": "crispy:raw_white_chocolate_cookie"
+  },
+  "result": "crispy:white_chocolate_cookie"
+}

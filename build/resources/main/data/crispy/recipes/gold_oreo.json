@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "#": {
+      "item": "minecraft:cocoa_beans"
+    },
+    "B": {
+      "item": "minecraft:raw_gold"
+    }
+  },
+  "pattern": [
+    "###",
+    " B ",
+    "###"
+  ],
+  "result": {
+    "item": "crispy:gold_oreo"
+  },
+  "show_notification": true
+}

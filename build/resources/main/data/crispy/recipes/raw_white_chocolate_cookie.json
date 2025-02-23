@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "X": {
+      "item": "minecraft:cocoa_beans"
+    },
+    "Y": {
+      "item": "crispy:cookie_dough"
+    },
+    "Z": {
+      "item": "minecraft:milk_bucket"
+    },
+    "#": {
+      "item": "minecraft:sugar"
+    }
+  },
+  "pattern": [
+    "YXZ",
+    "X##"
+  ],
+  "result": {
+    "item": "crispy:raw_white_chocolate_cookie",
+    "count": 6
+  },
+  "show_notification": true
+}

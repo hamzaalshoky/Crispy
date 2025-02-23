@@ -1,0 +1,32 @@
+{
+  "item.minecraft.cookie": "Chocolate Chip Cookie",
+  "item.crispy.burnt_cookie": "Burnt Cookie",
+  "item.crispy.chocolate_cookie": "Chocolate Cookie",
+  "item.crispy.cookie_dough": "Cookie Dough",
+  "item.crispy.copper_oreo": "Copper Ore-o",
+  "item.crispy.diamond_oreo": "Diamond Ore-o",
+  "item.crispy.fortune_cookie": "Fortune Cookie",
+  "item.crispy.gold_oreo": "Gold Ore-o",
+  "item.crispy.grapes": "Grapes",
+  "item.crispy.iron_oreo": "Iron Ore-o",
+  "item.crispy.oreo": "Ore-o",
+  "item.crispy.plain_cookie": "Plain Cookie",
+  "item.crispy.raisin_cookie": "Raisin Cookie",
+  "item.crispy.raisins": "Raisins",
+  "item.crispy.raw_chocolate_chip_cookie": "Chocolate Chip Cookie Dough",
+  "item.crispy.raw_chocolate_cookie": "Chocolate Cookie Dough",
+  "item.crispy.raw_raisin_cookie": "Raisin Cookie Dough",
+  "item.crispy.raw_white_chocolate_chip_cookie": "White Chocolate Chip Cookie Dough",
+  "item.crispy.raw_white_chocolate_cookie": "White Chocolate Cookie Dough",
+  "item.crispy.sprinkled_cookie": "Sprinkled Cookie",
+  "item.crispy.white_chocolate_chip_cookie": "White Chocolate Chip Cookie",
+  "item.crispy.white_chocolate_cookie": "White Chocolate Cookie",
+
+
+  "effect.crispy.sugar_rush": "Sugar Rush",
+
+  "advancements.husbandry.edible.title": "Is this thing even Edible?",
+  "advancements.husbandry.edible.description": "Make an Ore-o using cocoa and a raw ore",
+  "advancements.husbandry.fortunate.title": "The Fortunate Son",
+  "advancements.husbandry.fortunate.description": "Eat a fortune cookie and get a random message"
+}
